@@ -1,0 +1,88 @@
+{
+  "item": {
+    "id": "com.sixone.jump-game",
+    "restype": "quick_app",
+    "name": "跳一跳",
+    "description": "比一比\n看谁跳得远\n内测版\n正式版会有：双人对战 世界排行榜...",
+    "preview": [
+      "media/跳一跳@2x.png",
+      "media/Vela_9.png",
+      "media/Vela_9P.png",
+      "media/Vela_10.png",
+      "media/Vela_rw5.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/跳一跳@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "跳一跳密钥购买链接",
+      "url": "https://afdian.com/item/3a497d80cbc911f1836f52540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    },
+    {
+      "title": "跳一跳QQ交流群",
+      "url": "https://qm.qq.com/q/nu9nYGRvIA",
+      "icon": "chats-circle"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw5rw6跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw5rw6跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw5rw6跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/9p10p跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/9跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/9p10p跳一跳v1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}

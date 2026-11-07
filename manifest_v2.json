@@ -3,7 +3,7 @@
     "id": "com.sixone.jump-game",
     "restype": "quick_app",
     "name": "跳一跳",
-    "description": "比一比\n看谁跳得远\n内测版\n正式版会有：双人对战 世界排行榜...",
+    "description": "比一比\n看谁跳得远\n\n更新日志：\n跳一跳1.1.0\n1.修复角色异常蓄力问题\n2.大幅优化动画流畅度\n3.添加特殊方块停留奖励\n4.优化方块阴影及分数字体等\n\n正式版接下来会有：双人对战 世界排行榜...",
     "preview": [
       "media/跳一跳@2x.png",
       "media/Vela_9.png",
@@ -34,53 +34,53 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/rw5rw6跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/rw5rw6跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/rw5rw6跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/rw5rw6跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/rw5rw6跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/rw5rw6跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/1011跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/1011跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/9p10p跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/10p9p跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/1011跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/1011跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/1011跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/9跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/9跳一跳release.1.1.0.rpk",
       "versionCode": 1
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/9p10p跳一跳v1.0.0.rpk",
+      "version": "1.1.0",
+      "file_name": "downloads/10p9p跳一跳release.1.1.0.rpk",
       "versionCode": 1
     }
   },
